@@ -25,8 +25,6 @@
 ## 📌 Projects
 
 * 🔹 Expense Tracker (Python)
-* 🔹 Data Analysis Project (Pandas, Matplotlib)
-* 🔹 Web Portfolio (HTML, CSS)
 
 ---
 
